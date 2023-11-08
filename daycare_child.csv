@@ -1,601 +1,101 @@
-customer_id,child_name,child_birthday,child_age,food_preference,food_allergies,family_address,parent_email,parent_job,parent_credit_card,latitude,longitude
-573.0,Jessica Mendoza,2021-07-30,2,Vegan,N,"1400 Hodge Knolls
-Hendersonport, PW 47010",corysimpson@example.com,Copy,"American Express
-Shaun Mclaughlin
-347201069660195 11/30
-CID: 8426
-",-45.926952,25.763284
-894.0,Steven Brown,2022-11-25,0,Vegan,Y,"4985 Margaret Cape
-Rodriguezstad, CO 02602",david76@example.net,Physiotherapist,"VISA 13 digit
-Melissa Rodriguez
-4310240833656 04/24
-CVC: 700
-",-34.175235,-34.639806
-10.0,Cynthia Whitney,2022-12-11,0,Flexitarian,N,"523 Sandra Islands Suite 612
-New Dennisville, PW 76716",slowe@example.org,Arts development officer,"JCB 15 digit
-Thomas Cox
-180021259624508 06/29
-CVC: 839
-",45.842903,145.217881
-605.0,Elizabeth Cantrell,2019-08-25,4,Vegetarian,N,"PSC 1506, Box 4194
-APO AA 58776",mannnicole@example.net,English as a foreign language teacher,"VISA 16 digit
-Randy Jackson
-4070188545576886 07/29
-CVC: 721
-",-24.426269,-165.888082
-428.0,Richard Howard,2020-08-23,3,Vegan,N,"879 Jackson Falls Suite 374
-Wilsonland, TX 03528",jack94@example.com,Air broker,"VISA 19 digit
-Ryan Scott
-4920822867732889871 02/31
-CVC: 209
-",23.8854355,-119.705807
-579.0,Julia Robertson,2018-11-30,4,Vegan,Y,"06011 Lewis Mountains
-Port Jessicaview, MS 05233",crystal25@example.com,"Civil engineer, contracting","Diners Club / Carte Blanche
-Jennifer Gutierrez
-30072021761880 06/25
-CVC: 871
-",-13.4107925,-10.331835
-278.0,Joshua Vance DDS,2023-06-28,0,Vegetarian,Y,"853 Brett Haven
-Curryport, NY 94454",kendraking@example.com,Midwife,"American Express
-Melissa Campbell
-347724539091543 06/31
-CID: 6300
-",75.288709,38.369132
-185.0,Steven Ramirez,2020-01-14,3,Flexitarian,Y,"67968 Jeremy Corner
-Port Allisonberg, LA 27097",brentholden@example.org,Musician,"VISA 19 digit
-Timothy Hamilton
-4592343498978705204 01/32
-CVC: 091
-",-49.5082885,105.481050
-651.0,Stephanie Higgins,2019-09-23,4,Flexitarian,Y,"04645 Jack Highway
-Smithberg, MI 35954",qwatts@example.net,Futures trader,"Mastercard
-Jennifer Gentry
-5203209470631285 03/32
-CVV: 537
-",84.464065,155.907763
-552.0,Ryan Warren,2021-08-10,2,Vegan,Y,"452 Sandra Stream Apt. 710
-Lake Hectorton, MT 82660",bgilbert@example.com,Financial manager,"JCB 16 digit
-Jennifer Koch
-3573444027398057 03/27
-CVC: 238
-",4.7573795,-15.893343
-680.0,Zachary Becker MD,2018-06-13,5,Flexitarian,N,"07985 Jeffrey Mission Suite 469
-Lake Annaport, CO 42050",xkim@example.org,Fitness centre manager,"Discover
-Adam Mccoy
-6530710189254527 07/25
-CVC: 675
-",-61.622927,137.162834
-45.0,Edward Johnson,2020-04-09,3,Vegetarian,Y,"92449 Amy Hollow Suite 333
-Maddenport, PW 16795",lauriebarber@example.org,"Psychologist, occupational","JCB 15 digit
-Sierra Ortiz
-180010851742735 12/26
-CVC: 608
-",-32.5936735,32.082072
-46.0,Rebecca Wall,2022-05-01,1,Vegan,N,"5614 Lynch Terrace Suite 082
-East Michelemouth, AR 84405",vdavis@example.com,Personal assistant,"VISA 16 digit
-Charles Moore
-4071501768841267 06/29
-CVC: 417
-",62.2091845,67.740550
-782.0,Tanner Nguyen,2018-08-24,5,Flexitarian,N,"2352 Johnson Knoll Apt. 338
-Hoberg, TN 41046",franklinmichael@example.com,Furniture designer,"JCB 16 digit
-Barbara Flores
-3523417612023679 12/26
-CVC: 762
-",70.060370,145.617895
-118.0,Leslie Ramirez,2018-07-08,5,Vegetarian,N,"44930 Justin Port Suite 664
-Port Kenneth, AK 62478",melissawaters@example.org,Manufacturing systems engineer,"American Express
-Susan Mcdaniel
-379648886018752 07/30
-CID: 3070
-",67.555116,-175.831909
-495.0,Christian Fernandez,2019-11-10,3,Flexitarian,N,"17234 Rebecca Ridges
-Davisside, NV 78156",mcbridealbert@example.com,Recruitment consultant,"Discover
-Brandon Jefferson
-6514051891751785 09/28
-CVC: 851
-",53.5604205,173.405394
-181.0,Grant Williams,2020-08-27,3,Vegetarian,Y,"49302 Caleb Ridge Apt. 797
-Moorehaven, SC 82548",davidserrano@example.net,"Teacher, music","American Express
-Steven Diaz
-373806286143192 08/31
-CID: 2546
-",76.466619,6.343786
-299.0,George Lucas,2021-08-08,2,Vegetarian,N,"220 Jennifer Rapid Suite 440
-Markland, NM 32938",mcintoshcarl@example.net,"Civil engineer, contracting","American Express
-Benjamin Dunn
-370972777283559 09/33
-CID: 5112
-",-24.304682,-34.164647
-315.0,Ronnie Gibbs,2023-06-01,0,Vegetarian,N,"1771 Burnett Flat Suite 354
-Matthewchester, KY 40933",morgancarlos@example.com,Air traffic controller,"VISA 16 digit
-Daniel Garcia
-4404634233073287 05/30
-CVC: 527
-",61.958173,-170.140358
-831.0,Christopher David,2019-11-20,3,Flexitarian,N,"11681 Ann Divide Suite 717
-North Karen, OH 59660",bhill@example.org,Ranger/warden,"VISA 13 digit
-Joshua Friedman
-4715752927763 02/31
-CVC: 071
-",-82.1723325,120.002227
-727.0,Robert Hayes,2019-07-10,4,Vegetarian,Y,"6872 Martinez Vista
-Christopherchester, MA 40091",julie80@example.com,"Scientist, research (physical sciences)","JCB 16 digit
-Gavin Compton
-3531430980369434 04/30
-CVC: 067
-",-27.181720,-51.901856
-942.0,Jennifer Willis,2018-10-28,5,Vegetarian,Y,"7124 Katherine Shores Suite 793
-East Charlesland, MN 98106",davismonica@example.com,"Programmer, multimedia","VISA 19 digit
-Brooke Cowan
-4221682139461855149 06/24
-CVC: 372
-",58.3678875,-92.613818
-363.0,Victor Douglas,2020-04-16,3,Flexitarian,N,"981 Lowery Parkway Suite 175
-New Jaredbury, IN 48935",nkennedy@example.org,Diagnostic radiographer,"Discover
-Anthony Thomas
-6590871143952965 05/24
-CVC: 376
-",25.5146835,-148.842385
-776.0,Shelby Vincent,2020-10-20,3,Vegan,Y,"9415 Jessica Way Suite 341
-Williamsbury, CO 46968",jeffreykeith@example.net,Aeronautical engineer,"Discover
-James Warren
-6544113050854919 08/26
-CVC: 848
-",14.0626395,99.226195
-713.0,David Wells,2023-09-17,0,Flexitarian,Y,"9126 Michelle Motorway Apt. 079
-Westchester, NM 48783",rsmith@example.net,Fashion designer,"JCB 16 digit
-Roy Porter
-3560507532602430 05/25
-CVC: 998
-",-61.5824555,-81.592919
-787.0,David Romero,2023-10-07,0,Flexitarian,Y,"02864 Woodward Springs
-Lake Allentown, IL 92369",robertcollins@example.com,Health promotion specialist,"VISA 13 digit
-Bradley Anderson
-4384765190867 06/26
-CVC: 343
-",-81.606241,-97.393869
-113.0,Theodore Barker,2020-05-29,3,Flexitarian,N,"262 Nicole Mews
-Michaelchester, AL 05867",andrew21@example.net,Paramedic,"VISA 16 digit
-Ronald Walters
-4323330025584999 10/28
-CVC: 088
-",12.5269755,-33.739815
-435.0,Caroline Mathews,2023-06-22,0,Flexitarian,N,"312 Justin Shores Apt. 341
-Lake Sabrina, SC 38424",michellemcbride@example.org,Advertising account planner,"American Express
-Seth Morris
-342094239634520 03/29
-CID: 5619
-",8.7964955,-123.816355
-693.0,Michael White,2023-03-01,0,Flexitarian,N,"317 House Mews Apt. 394
-Williamfurt, AL 55363",skinnerwilliam@example.org,Early years teacher,"JCB 15 digit
-Colin Sanchez
-180085546551691 09/24
-CVC: 734
-",-69.263264,144.459845
-448.0,Brittney Wright,2023-02-21,0,Vegetarian,N,"PSC 7557, Box 1241
-APO AP 75418",lcrawford@example.org,Learning disability nurse,"JCB 16 digit
-Kristin Bailey
-3501126626948070 02/33
-CVC: 482
-",52.3857405,-165.449533
-17.0,Donald Spencer,2022-02-08,1,Vegetarian,N,"453 Jonathan Corners Suite 631
-Juarezside, MH 70002",kelly05@example.org,Restaurant manager,"JCB 15 digit
-Julian Davis
-180022737186482 03/24
-CVC: 867
-",-56.7953495,-6.719155
-357.0,Kristin Reese,2019-08-20,4,Vegan,Y,"564 Stacy Extension Apt. 739
-Patriciaside, TX 06442",bsmith@example.com,Chartered loss adjuster,"Discover
-Joel Padilla
-6576510429894016 09/25
-CVC: 511
-",27.1490955,-165.044422
-826.0,Dr. Susan Huynh,2020-02-26,3,Flexitarian,Y,"69135 Payne Junction
-Richardberg, MH 78996",qshepard@example.com,Accommodation manager,"Discover
-Joshua Ryan
-6011301575302365 12/25
-CVC: 330
-",-43.184248,-119.393765
-501.0,Brad Roy,2018-11-24,4,Vegan,N,"5506 Christine Lake
-East Krista, NM 50634",skinnergloria@example.com,"Production assistant, radio","American Express
-Jason Weber
-373612275953603 08/24
-CID: 2144
-",-63.3711935,-127.340577
-918.0,Paul Phillips,2023-04-28,0,Vegetarian,N,"5270 Case Coves
-East Heidi, TN 98563",jill38@example.com,Commercial art gallery manager,"American Express
-Nicholas Bartlett
-347154351478422 12/24
-CID: 1720
-",86.3532985,62.681834
-200.0,Jessica Taylor,2023-11-05,0,Flexitarian,N,"6861 Gomez Green
-Ayerstown, UT 16842",sandersashley@example.com,Lobbyist,"VISA 13 digit
-Alec Torres
-4872448028843 04/24
-CVC: 494
-",-68.260854,115.032719
-240.0,Kevin Schneider,2023-04-28,0,Vegetarian,Y,"5002 Timothy Ports Apt. 692
-South Justinstad, VI 48851",beckermike@example.net,Facilities manager,"American Express
-Natalie Thomas
-349258784702502 07/30
-CID: 1043
-",40.128691,-134.599171
-160.0,Mrs. Morgan Hamilton,2018-06-06,5,Vegetarian,Y,"15293 Valdez Park
-North Elizabeth, MO 26046",longluis@example.com,Food technologist,"American Express
-Bryan Hansen
-377088320643505 06/28
-CID: 8442
-",45.818003,-146.478484
-206.0,John Chang,2021-06-02,2,Vegetarian,Y,"798 James Crossing
-Ellenmouth, DE 75102",danagarcia@example.com,Fine artist,"Discover
-Mary Wright
-6535116909696598 06/31
-CVC: 957
-",88.008207,-13.141226
-107.0,Brittany Camacho,2022-08-25,1,Vegetarian,Y,"1526 Smith Harbors
-East Tracyhaven, PW 51694",zgarner@example.net,"Engineer, structural","Diners Club / Carte Blanche
-Donald Daniels
-30151169178717 09/25
-CVC: 996
-",6.4128615,-84.635594
-560.0,Phillip Williams,2018-11-23,4,Vegan,N,"Unit 7417 Box 3588
-DPO AA 71801",seanjones@example.net,Comptroller,"Discover
-David Mcbride
-6587521735896030 04/30
-CVC: 382
-",26.250294,-67.682465
-386.0,Peter Bryant,2023-10-01,0,Flexitarian,N,"9296 Gregory Station Suite 539
-Danielland, IA 84289",joncook@example.org,Fast food restaurant manager,"JCB 15 digit
-Melanie Martinez
-180088917687961 12/25
-CVC: 434
-",-52.1004055,-17.809712
-853.0,Molly Parker,2020-05-02,3,Vegan,Y,"5641 Adam Key Apt. 931
-West Nicole, MS 44659",molly01@example.net,"Chemist, analytical","VISA 19 digit
-Lisa Rodriguez
-4682010467009859844 12/26
-CVC: 365
-",32.7158745,127.909030
-269.0,Lisa Juarez,2020-04-27,3,Vegan,Y,"391 John Divide
-Marshtown, OR 08957",beanlori@example.com,Academic librarian,"Maestro
-Whitney Bates
-675996543848 01/26
-CVV: 403
-",-59.240194,-140.548703
-145.0,Alex Cobb,2018-05-29,5,Vegan,Y,"66907 Jesse Rue
-Port Jaime, NY 14636",laurahill@example.com,Operational investment banker,"Mastercard
-Barry Tran
-5433881457093440 07/31
-CVV: 244
-",-9.5372485,-137.231693
-676.0,Thomas Ward MD,2018-06-25,5,Vegan,Y,"PSC 3126, Box 5490
-APO AA 94884",brianmiller@example.com,Marketing executive,"VISA 13 digit
-Susan Benton
-4829675510505 10/27
-CVC: 706
-",-39.6420175,87.722094
-319.0,Alyssa Randall,2023-11-07,0,Vegetarian,Y,"USNV Coleman
-FPO AA 95837",reedchristopher@example.org,"Conservation officer, nature","VISA 16 digit
-Bruce Wells
-4818021918152372 08/33
-CVC: 733
-",-9.6457555,-93.973181
-663.0,Timothy Aguilar,2018-04-20,5,Vegetarian,Y,"6208 Kenneth Point
-Jeremyside, RI 60891",joan48@example.net,Volunteer coordinator,"VISA 13 digit
-Thomas Mcclure
-4469009062889 01/26
-CVC: 366
-",-48.6857995,143.261322
-140.0,Michelle Church,2021-04-04,2,Flexitarian,Y,"301 David Common
-Elizabethmouth, PR 59027",megan09@example.org,Forensic scientist,"VISA 19 digit
-Candace Garcia
-4111881169663469268 02/27
-CVC: 721
-",37.6309855,-146.943251
-830.0,Stacey Levy,2019-07-03,4,Vegetarian,Y,"56677 Jennifer Estates Apt. 569
-West Joshuaside, WY 57496",lthomas@example.org,"Surveyor, hydrographic","American Express
-Derek Schmidt
-340896073066235 10/24
-CID: 2608
-",-88.364311,176.452727
-98.0,Joseph Roy,2018-02-26,5,Flexitarian,Y,"7408 Joseph Branch Suite 919
-Bassmouth, HI 06971",radkins@example.com,"Nurse, learning disability","VISA 16 digit
-Charles Mcneil
-4864873910847489 10/33
-CVC: 433
-",-8.8322055,79.812175
-1.0,Tracy Smith,2018-04-22,5,Vegan,Y,"2742 Zachary Plains
-Walkermouth, IA 29690",kathleenhernandez@example.org,"Engineer, energy","JCB 16 digit
-Maria Benson
-3517680295779952 07/26
-CVC: 724
-",-8.028428,157.748249
-603.0,Kim Riley,2017-12-28,5,Vegetarian,Y,"864 Todd Burgs
-Scottfurt, OR 94928",maryho@example.com,Nutritional therapist,"Discover
-Maria Stokes
-6575792570186159 06/33
-CVC: 853
-",42.4272775,165.785923
-743.0,Matthew Jones,2018-02-01,5,Vegetarian,Y,"6970 Smith Extensions
-West Roberta, DC 62888",brownmaria@example.net,Environmental education officer,"VISA 13 digit
-Michael Dominguez
-4082842466983 05/30
-CVC: 778
-",23.853153,103.055569
-302.0,Robin Anderson,2019-09-23,4,Vegetarian,N,"682 Kelly Prairie Suite 213
-West Dakota, AK 25972",aimeearcher@example.org,"Designer, ceramics/pottery","American Express
-Jamie Horn
-372217965385370 03/24
-CID: 5742
-",-86.4452835,67.490087
-218.0,Ms. Alicia Martin,2023-09-14,0,Vegan,N,"62344 Brian Estate
-Marilynport, NH 64366",warrenjanice@example.org,Database administrator,"American Express
-Amber Henry
-341244889968469 08/31
-CID: 4969
-",-68.443154,66.069029
-336.0,Theresa Ochoa,2023-02-22,0,Flexitarian,Y,"69487 Johnson Throughway
-Port Andrewside, AK 06141",tgraves@example.net,Youth worker,"VISA 13 digit
-Emily Mooney
-4984440681709 11/24
-CVC: 201
-",67.086116,144.557570
-781.0,Stefanie Thomas,2019-02-12,4,Vegan,N,"278 May Inlet Suite 645
-South Kevinburgh, CA 70173",greyes@example.net,Dispensing optician,"JCB 16 digit
-Joseph Chen
-3581668953791014 04/26
-CVC: 282
-",25.3857855,96.406063
-594.0,Zachary Martin,2022-02-21,1,Flexitarian,N,"63642 Mccullough Springs Apt. 311
-West Jenniferfurt, WV 08199",rodneytaylor@example.com,"Designer, blown glass/stained glass","American Express
-Jessica Campos
-342087281156830 05/29
-CID: 5604
-",-48.4402205,-142.411336
-811.0,Shannon Leonard,2020-05-22,3,Vegetarian,N,"045 Stephenson Burg
-Lake Josephside, CA 03538",michele14@example.net,"Conservator, furniture","JCB 16 digit
-Lisa Lee
-3564050378836644 12/29
-CVC: 736
-",58.990259,-29.694202
-179.0,William Sanders,2019-06-08,4,Vegetarian,Y,"877 Sherri Lodge
-New Michelle, VA 40139",rhondalowe@example.net,"Engineer, communications","VISA 13 digit
-Laura Jackson
-4812856187822 12/32
-CVC: 755
-",39.6116905,32.841989
-474.0,Mrs. Christine Nelson,2023-07-04,0,Vegan,Y,"242 Delacruz Route
-New Lauren, RI 45843",timothyfitzgerald@example.net,Insurance broker,"American Express
-Christina Brown
-345511466770641 03/29
-CID: 9408
-",47.7545685,-44.813369
-664.0,Jacqueline Castillo,2019-02-11,4,Vegetarian,N,"56111 Ochoa Tunnel Suite 752
-Bradfordmouth, TX 13228",melissatorres@example.com,Psychiatric nurse,"Discover
-Christina Sweeney
-6521985080757692 08/32
-CVC: 924
-",-89.8842475,77.415453
-534.0,Brady Irwin,2021-02-15,2,Vegetarian,Y,"435 Brown Key
-Port Andrewstad, IA 82249",johnconner@example.org,"Nurse, adult","JCB 16 digit
-Brian Howard
-3570210588384841 02/24
-CVC: 853
-",75.909046,-81.945362
-446.0,Anthony Walters,2022-09-28,1,Vegan,N,"9882 Kevin Prairie Apt. 056
-Kellytown, KY 98973",eswanson@example.org,Radio broadcast assistant,"Diners Club / Carte Blanche
-Jonathan Estrada
-30051666968364 10/26
-CVC: 318
-",-70.583932,-56.851895
-228.0,Catherine Johnson,2021-11-14,1,Vegan,N,"37644 Wilson Crest
-South Kim, WV 10267",robertfitzgerald@example.org,Immunologist,"JCB 16 digit
-Victor Bennett
-3516664428549020 03/30
-CVC: 957
-",-16.142834,-128.104832
-360.0,Tammy Kim,2022-02-15,1,Vegetarian,Y,"PSC 5146, Box 4831
-APO AA 23953",tammy38@example.org,Trade union research officer,"Mastercard
-Mark Clark
-5553959731974280 08/26
-CVV: 120
-",-69.9144105,110.263479
-230.0,Richard Hardy,2020-03-15,3,Vegan,N,"42737 Christopher Circles
-Jamesville, NJ 09428",stacymanning@example.com,Optometrist,"Mastercard
-Randy Manning
-5318412397393508 12/30
-CVV: 071
-",24.5055025,-150.202487
-439.0,Hannah Hernandez,2022-07-24,1,Vegan,N,"093 Martin Place
-Kaitlynburgh, NE 65777",kimberly01@example.org,Oncologist,"Discover
-Rodney Harris
-6011681980209432 01/29
-CVC: 088
-",12.6673655,66.042803
-421.0,Madison Marshall,2021-01-29,2,Flexitarian,N,"8851 Carpenter Mountains
-New Chloe, AS 93396",laura21@example.org,Research scientist (physical sciences),"VISA 16 digit
-Matthew Mcgrath
-4344910800136969 01/26
-CVC: 830
-",-51.246869,-42.295405
-516.0,Robert Jackson,2018-12-20,4,Vegan,Y,"7147 Brian Station Suite 577
-East Karenton, MD 30320",xcook@example.com,"Psychologist, sport and exercise","Discover
-Thomas Williams
-6554909395897787 10/24
-CVC: 136
-",-70.0787675,36.149249
-82.0,Amy Martinez,2023-04-26,0,Vegetarian,N,"6105 Sullivan Coves
-West Sara, IA 58047",hilljason@example.net,Land,"JCB 16 digit
-Samantha Bishop
-3562574245427289 02/26
-CVC: 171
-",-22.1662365,78.923695
-961.0,Michael Davis,2019-04-17,4,Vegetarian,Y,"6360 William Plaza Suite 498
-Pamelaborough, AK 75408",montgomeryaudrey@example.net,Exhibition designer,"VISA 19 digit
-Ralph Orr
-4844359143660743115 02/24
-CVC: 751
-",-87.737372,-3.457793
-924.0,Rebecca Hines,2019-12-23,3,Flexitarian,Y,"81862 Carrie Overpass
-Meganstad, IL 67577",gchavez@example.com,Environmental manager,"American Express
-Dalton Hicks
-372839991960957 10/26
-CID: 8564
-",-65.333370,-138.322953
-48.0,Kathy Burke,2020-03-21,3,Flexitarian,Y,"PSC 7532, Box 9212
-APO AE 23343",qcruz@example.com,Arts development officer,"VISA 16 digit
-Christopher King
-4429902588275752 11/28
-CVC: 943
-",-50.976112,29.780992
-769.0,Jimmy Kline,2019-03-12,4,Vegetarian,N,"01171 Garcia Passage Suite 767
-Whitebury, WI 34319",simmonsmark@example.org,Make,"JCB 16 digit
-Karen Kidd
-3510019322046688 05/31
-CVC: 340
-",62.917568,-66.364552
-720.0,Richard Griffin,2022-07-24,1,Flexitarian,N,"7976 Cole Stream Apt. 401
-Anthonymouth, PW 23460",dgarcia@example.com,Records manager,"JCB 15 digit
-Mary Marshall
-213193566983645 03/31
-CVC: 555
-",-15.5353745,-89.354988
-18.0,Lisa Cox,2019-02-10,4,Flexitarian,N,"55271 Angela Mountains
-Ashleystad, NM 96260",annadiaz@example.net,Interpreter,"VISA 16 digit
-Tanya Martinez
-4807994470166654 04/29
-CVC: 040
-",35.3181925,-171.461625
-325.0,Donald Lane,2020-07-02,3,Flexitarian,N,"91883 Spencer Freeway Suite 631
-Port Laurenmouth, MT 54440",ryan85@example.com,Senior tax professional/tax inspector,"VISA 16 digit
-Brenda Mason
-4891627456042344 11/31
-CVC: 199
-",79.574818,33.382233
-931.0,Whitney Taylor,2020-11-28,2,Vegetarian,N,"7629 Marie Valley Suite 205
-Pattersonmouth, PR 11597",franklinsergio@example.net,Control and instrumentation engineer,"JCB 16 digit
-Nicholas Tate
-3587661162580462 04/24
-CVC: 680
-",-72.966262,91.359938
-647.0,Mr. Tony Schultz DDS,2022-04-09,1,Vegan,N,"2669 Vanessa Walk Apt. 826
-New Amandastad, NC 10850",johnsonregina@example.net,Communications engineer,"Mastercard
-Troy Clark
-5183278919016154 09/24
-CVV: 618
-",12.605673,174.960391
-441.0,Mr. Robert Gonzalez,2021-01-03,2,Vegan,Y,"Unit 5003 Box 0372
-DPO AE 74275",nicholasrichardson@example.org,Energy engineer,"Mastercard
-Justin Taylor
-2243122437763829 03/27
-CVV: 768
-",45.750501,31.123072
-429.0,Brenda Fisher,2022-01-05,1,Flexitarian,Y,"7918 Lopez Light Suite 439
-Brandonbury, NH 40908",richardoneal@example.net,Environmental consultant,"American Express
-Mark Richards
-341849712038338 06/33
-CID: 9630
-",81.5277275,29.156458
-467.0,Stephanie Johnson,2022-07-28,1,Vegetarian,Y,"PSC 6835, Box 9776
-APO AA 79580",clane@example.net,Pensions consultant,"JCB 16 digit
-Teresa Allison
-3554313116604803 03/28
-CVC: 019
-",16.857059,65.226744
-935.0,Michael Khan,2021-07-30,2,Vegan,Y,"9064 Burnett Villages
-New Robin, SD 67345",rbradley@example.org,"Scientist, physiological","American Express
-Daniel Gonzalez
-343565816365256 04/25
-CID: 6537
-",-9.8080105,94.157335
-427.0,Russell Thomas,2018-10-01,5,Vegan,Y,"1515 Carol Parkways Apt. 069
-South Brian, IN 40953",michellebarnes@example.net,Surgeon,"Maestro
-Christopher Hudson
-676375995328 02/24
-CVV: 088
-",-67.6838485,155.560536
-615.0,Maria Figueroa,2023-03-10,0,Vegetarian,N,"90881 Schneider Causeway Suite 424
-Port Russell, CO 40226",suewilson@example.net,Patent attorney,"Maestro
-Robert Richardson
-501819096501 07/24
-CVV: 019
-",-19.664984,-78.348551
-221.0,Barbara Chapman MD,2021-01-11,2,Flexitarian,N,"USS Jackson
-FPO AP 76568",davidsingh@example.com,Interpreter,"JCB 16 digit
-William Santiago
-3507928030528651 08/33
-CVC: 142
-",65.609529,-162.691431
-349.0,David Khan,2020-01-24,3,Flexitarian,N,"64957 Amy Tunnel
-Cunninghamfort, GA 00600",cduke@example.com,Ecologist,"VISA 16 digit
-Carolyn Macias
-4689099868559073 05/27
-CVC: 445
-",-40.269649,-173.696752
-574.0,Susan Martinez,2019-06-25,4,Vegan,Y,"PSC 4864, Box 9606
-APO AP 38658",cgilbert@example.net,Press sub,"JCB 15 digit
-Alexis Hoffman
-213124570682428 06/32
-CVC: 000
-",76.1291505,30.048998
-194.0,Caroline Nunez,2019-05-12,4,Flexitarian,N,"58324 Larry Expressway Apt. 506
-New Kristin, DE 00592",vanessanavarro@example.com,Counsellor,"JCB 16 digit
-Vincent Cherry
-3553841789157411 10/25
-CVC: 718
-",85.797683,174.507429
-25.0,John Hartman,2022-07-10,1,Vegan,Y,"05119 Steven Forges
-Pierceborough, MH 18610",stevenreed@example.org,"Scientist, water quality","Maestro
-Allen Morrow
-503865663655 12/23
-CVV: 158
-",83.010760,156.486239
-116.0,Christopher Garcia,2018-07-11,5,Vegetarian,N,"373 Samantha Pines
-Robertton, IA 72936",kbaldwin@example.net,Further education lecturer,"Maestro
-Stephen Hurley
-630416660011 09/29
-CVV: 546
-",59.344337,-138.333238
-290.0,Amanda Gilbert,2018-05-16,5,Vegan,Y,"1625 Amy Oval Apt. 055
-Lake Jessica, OH 18072",tony36@example.com,Press photographer,"JCB 15 digit
-Kristen Wagner
-180073272332502 09/33
-CVC: 395
-",-56.8079945,172.640116
-488.0,Timothy Rowe,2020-11-10,2,Flexitarian,N,"704 Spencer Parkways Suite 721
-Roberthaven, IN 63298",matthewhodge@example.net,Lobbyist,"Diners Club / Carte Blanche
-Jack Parker
-30403365581917 08/25
-CVC: 701
-",52.4089845,-131.530952
-565.0,Mary Jordan,2019-02-18,4,Vegan,N,"386 Scott Extensions
-Port Lisaville, OK 41286",suzannespencer@example.net,Quality manager,"VISA 16 digit
-John Holmes
-4236090821571584 07/24
-CVC: 811
-",11.547710,146.572164
-841.0,Joy Gonzalez,2022-05-12,1,Flexitarian,Y,"7670 Amanda Knoll
-Lake Robert, KS 82128",melissa10@example.org,"Scientist, marine","Maestro
-Patricia Wood
-630414700900 03/32
-CVV: 317
-",11.819215,-0.830773
-857.0,Kim Smith,2019-09-02,4,Vegan,N,"346 Lori Shoal
-New Matthewstad, IL 32879",william52@example.net,Medical sales representative,"VISA 19 digit
-Thomas Singleton
-4718344300830872570 01/33
-CVC: 342
-",68.066835,-178.232349
-633.0,Mark Hernandez,2022-03-02,1,Vegan,Y,"1043 Scott Canyon
-East Laurabury, CA 13185",richardsbrittany@example.org,Field seismologist,"VISA 16 digit
-William Howard
-4902420293065893 05/27
-CVC: 280
-",-63.259792,-177.144119
-150.0,Samantha Smith,2018-04-23,5,Vegan,Y,"Unit 3177 Box 4895
-DPO AA 71901",cathystout@example.net,Drilling engineer,"American Express
-Paul Vance
-349487541083647 10/24
-CID: 0384
-",-80.704527,-118.858181
+customer_id,child_name,child_birthday,child_age,food_preference,food_allergies,allergy_type,neurotype,scale_spectrum
+978.0,Brian Moses,2022-02-22,1,Vegan,Y,Gluten,ADHD,NA
+134.0,Kenneth Baxter,2020-12-11,2,Vegan,Y,Animal protein,Autism,highly functional
+975.0,Sherry Thomas,2022-04-30,1,Flexitarian,N,Gluten,Normative,NA
+933.0,Kimberly Abbott,2018-06-09,5,Vegan,N,NA,Autism,highly functional
+685.0,Christina Love,2019-03-02,4,Vegan,Y,Animal protein,Autism,NA
+530.0,Deborah Mills,2020-12-17,2,Vegetarian,N,NA,Normative,NA
+76.0,Mary Hughes,2018-04-10,5,Vegan,N,Animal protein,Autism,highly functional
+90.0,Timothy Johnson,2023-06-14,0,Vegetarian,Y,Gluten,Autism,NA
+810.0,James Marquez,2022-01-17,1,Vegetarian,N,NA,Normative,NA
+226.0,Tammy Parker,2021-11-16,1,Flexitarian,N,Gluten,Normative,highly functional
+696.0,Jason Young,2018-06-22,5,Flexitarian,Y,Gluten,Normative,NA
+213.0,Frank Hernandez,2023-04-10,0,Vegan,N,Animal protein,ADHD,highly functional
+405.0,Rebecca Price,2022-02-16,1,Flexitarian,Y,NA,ADHD,highly functional
+136.0,Alexander Santos,2023-02-23,0,Flexitarian,N,Gluten,Normative,NA
+229.0,Jerry Nichols,2019-09-27,4,Vegan,Y,NA,Normative,highly functional
+500.0,Karen Thompson,2021-09-24,2,Flexitarian,Y,Animal protein,Autism,NA
+887.0,Larry Martin,2019-04-09,4,Vegetarian,Y,Animal protein,Normative,NA
+953.0,Andre Williams,2020-02-23,3,Vegan,Y,Animal protein,ADHD,NA
+208.0,Mariah Lopez,2023-05-14,0,Vegetarian,N,NA,ADHD,NA
+419.0,Kristina Brown,2021-03-31,2,Vegetarian,Y,Animal protein,Normative,highly functional
+794.0,Cynthia Hernandez,2021-06-18,2,Flexitarian,N,NA,Normative,highly functional
+252.0,Kelsey Gardner,2022-06-02,1,Flexitarian,N,Gluten,Normative,highly functional
+205.0,Virginia Horton,2022-08-31,1,Vegan,N,Gluten,ADHD,highly functional
+801.0,Seth Watkins,2019-08-25,4,Vegetarian,Y,Animal protein,Autism,NA
+255.0,Justin Castillo,2022-07-15,1,Vegetarian,N,NA,Normative,NA
+408.0,James Roberts,2023-06-19,0,Flexitarian,N,Animal protein,Normative,highly functional
+449.0,Kathy Knight,2018-03-20,5,Vegan,Y,Gluten,ADHD,NA
+669.0,Jason Berry,2023-10-10,0,Vegan,Y,Gluten,Autism,highly functional
+70.0,Jeffrey Pearson,2023-09-24,0,Vegan,Y,Animal protein,ADHD,highly functional
+710.0,Jessica Melton,2023-08-22,0,Vegetarian,N,Animal protein,Autism,highly functional
+674.0,William Davis,2019-11-21,3,Flexitarian,Y,Gluten,Normative,NA
+32.0,Jonathan Huerta,2018-11-28,4,Vegetarian,Y,NA,ADHD,NA
+880.0,Phillip Mack,2017-12-22,5,Flexitarian,N,NA,Autism,highly functional
+374.0,Jacqueline Walton,2019-03-17,4,Vegetarian,N,NA,Autism,highly functional
+916.0,William Browning,2019-11-28,3,Flexitarian,Y,Gluten,Normative,NA
+862.0,Mike Henry,2019-06-02,4,Vegetarian,N,Animal protein,ADHD,highly functional
+246.0,Joe Schwartz,2020-03-17,3,Vegetarian,N,NA,ADHD,highly functional
+948.0,Jessica Farrell,2018-12-17,4,Vegan,N,Gluten,Autism,NA
+654.0,Jonathan Pratt,2019-05-08,4,Vegetarian,N,Animal protein,Autism,NA
+68.0,Steven Jackson,2019-10-02,4,Vegan,Y,Gluten,Normative,NA
+396.0,Pamela Scott,2020-05-14,3,Vegetarian,Y,NA,Autism,NA
+701.0,Scott Reyes,2022-06-18,1,Flexitarian,N,Gluten,Normative,NA
+413.0,Erin Webster,2023-08-05,0,Flexitarian,N,Gluten,Autism,highly functional
+497.0,John Burke,2022-01-09,1,Vegan,N,Animal protein,Normative,NA
+884.0,Heather Ellis,2023-02-12,0,Flexitarian,N,Animal protein,ADHD,NA
+874.0,Kevin Jackson,2022-04-23,1,Flexitarian,N,Animal protein,ADHD,highly functional
+147.0,Helen Martin,2020-11-08,3,Flexitarian,Y,Gluten,Autism,highly functional
+162.0,Timothy Ryan,2023-01-24,0,Vegetarian,Y,Animal protein,Autism,NA
+93.0,Patrick Hayes,2020-07-16,3,Flexitarian,N,Gluten,Normative,NA
+967.0,Jacqueline Harris,2018-01-18,5,Flexitarian,Y,Gluten,ADHD,highly functional
+571.0,Eileen Walker,2018-09-17,5,Vegetarian,Y,NA,ADHD,NA
+399.0,Ryan Garza,2021-09-04,2,Flexitarian,N,Gluten,ADHD,NA
+268.0,Keith Ramos,2019-05-20,4,Vegan,N,NA,Normative,highly functional
+644.0,Angela Curtis,2021-07-23,2,Flexitarian,Y,Animal protein,Normative,highly functional
+875.0,Luke Erickson,2022-09-25,1,Vegan,Y,Animal protein,ADHD,NA
+634.0,Amber Robinson,2019-08-04,4,Flexitarian,Y,Animal protein,ADHD,highly functional
+649.0,William Merritt,2020-11-18,2,Flexitarian,Y,Animal protein,ADHD,NA
+30.0,Erin White,2018-04-30,5,Vegan,N,NA,Autism,highly functional
+998.0,Rachel Nolan,2019-01-12,4,Flexitarian,Y,NA,Normative,highly functional
+62.0,Nancy White MD,2022-10-26,1,Vegetarian,N,Gluten,Normative,NA
+949.0,Kelly Henry,2018-01-13,5,Vegetarian,Y,NA,ADHD,NA
+138.0,Linda Warner,2020-09-26,3,Flexitarian,N,Gluten,ADHD,NA
+373.0,Cynthia Fleming,2018-05-14,5,Flexitarian,N,NA,ADHD,NA
+22.0,Michael Smith,2023-08-13,0,Vegan,Y,NA,Normative,NA
+34.0,Kenneth Brown,2018-01-06,5,Vegan,N,Gluten,Normative,highly functional
+154.0,Donald Cohen,2022-04-04,1,Vegetarian,N,Animal protein,Autism,highly functional
+858.0,Michael Cooper,2019-02-28,4,Flexitarian,Y,Gluten,Autism,highly functional
+840.0,Allen Lewis,2020-02-24,3,Flexitarian,N,Animal protein,ADHD,NA
+754.0,Amy Turner,2022-04-23,1,Vegan,Y,Animal protein,Autism,NA
+101.0,Amanda Wheeler,2018-11-21,4,Flexitarian,Y,Gluten,Autism,highly functional
+983.0,Lance Mcdonald,2020-06-03,3,Vegetarian,Y,NA,Autism,NA
+499.0,Danielle Young,2022-01-04,1,Flexitarian,Y,NA,ADHD,highly functional
+254.0,Tami Harrison,2017-11-26,5,Vegetarian,Y,Gluten,Autism,NA
+195.0,Shawn Reed,2022-10-02,1,Vegan,Y,NA,ADHD,highly functional
+352.0,Kyle Rodriguez,2019-02-17,4,Vegetarian,N,Gluten,ADHD,NA
+444.0,Chad Wood,2021-06-14,2,Vegetarian,N,Animal protein,ADHD,NA
+535.0,Matthew Cervantes,2022-07-29,1,Vegan,Y,Gluten,Autism,highly functional
+892.0,Cameron Tran,2018-07-03,5,Vegetarian,Y,Gluten,Autism,highly functional
+172.0,Allen Johnson,2022-02-12,1,Vegetarian,N,Animal protein,Normative,NA
+792.0,Mr. Phillip Bradley II,2022-09-10,1,Vegan,Y,Animal protein,Autism,highly functional
+529.0,Whitney Davis,2021-07-25,2,Vegan,Y,Gluten,Normative,highly functional
+211.0,Douglas Huber,2022-10-02,1,Vegetarian,N,Gluten,ADHD,NA
+568.0,Hannah Copeland,2019-02-12,4,Vegetarian,Y,Animal protein,Normative,highly functional
+643.0,Robert Allen,2018-05-19,5,Flexitarian,Y,Gluten,Normative,NA
+848.0,Makayla Johnson MD,2019-07-04,4,Vegan,N,Animal protein,Normative,highly functional
+149.0,Christian Shaffer,2020-05-31,3,Flexitarian,N,Animal protein,ADHD,NA
+536.0,April Rogers,2023-04-16,0,Vegan,Y,NA,Normative,highly functional
+823.0,Kent Jackson,2021-03-06,2,Vegan,N,Gluten,Normative,highly functional
+951.0,Alexis Smith,2020-02-06,3,Flexitarian,N,NA,Autism,NA
+513.0,Gregory Alexander,2020-03-27,3,Flexitarian,N,Gluten,Normative,NA
+420.0,Stephen Myers,2019-11-11,3,Vegan,Y,NA,Autism,NA
+256.0,Sara Robinson,2022-01-28,1,Vegan,Y,NA,Normative,highly functional
+191.0,Crystal Stephens,2018-12-07,4,Vegan,N,Gluten,Normative,NA
+641.0,Mrs. Victoria Rosales DVM,2023-07-11,0,Vegetarian,N,NA,ADHD,NA
+482.0,Reginald Watson,2022-08-29,1,Vegan,N,Gluten,ADHD,NA
+611.0,Todd Patterson,2019-05-12,4,Vegan,N,NA,ADHD,NA
+122.0,Bradley Conrad,2020-09-22,3,Vegetarian,N,NA,ADHD,highly functional
+533.0,Juan Roth,2021-10-05,2,Vegan,N,NA,Normative,NA
+694.0,Mark Pratt,2020-08-28,3,Flexitarian,Y,Gluten,ADHD,highly functional
+243.0,Douglas Scott,2020-09-21,3,Vegetarian,N,Animal protein,Autism,highly functional
