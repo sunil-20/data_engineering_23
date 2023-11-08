@@ -1,41 +1,17 @@
 ,employee_id,employee_name,birthdate,address,email,job_title,salary_year,latitude,longitude
-0,8,Calvin Hamilton,9/2/1980,"87260 Stephens Brooks
-Lake Amandaland, ME 71839",john32@example.com,Cleaner,23001,88.223812,-142.265922
-1,11,Michael Moreno,7/12/2003,"6370 Reynolds Ferry
-Reynoldshaven, GU 17632",jamessmith@example.org,Cheff,31831,31.4712005,33.114631
-2,22,Michael Burnett,8/2/1953,"129 Sharp Land Apt. 931
-Candiceville, DE 87911",edwin04@example.org,Cheff,30097,-52.845132,-10.182804
-3,33,Jessica James,7/18/1982,"192 Brandon Village Apt. 844
-Lucasfurt, MA 77259",brittanybarnes@example.com,Cleaner,39855,-40.5116715,158.82777
-4,28,Donna Turner,9/24/1967,"57920 Colin Row
-Osborneview, MN 64290",qtucker@example.org,Nurse,39883,-74.281517,28.794459
-5,5,Christopher Pennington,3/10/1974,"93019 Weaver Wells Suite 480
-Lake Joshuamouth, LA 46265",timothy89@example.org,Manager,39044,-85.7938555,-85.712644
-6,88,Briana Parker,9/20/1953,"8695 Bennett Pines Suite 061
-Angelicachester, VA 00915",vingram@example.org,Cheff,25189,23.437672,76.503455
-7,56,Brian Roach,3/5/1973,"784 Courtney Shoal Apt. 179
-East Kennethchester, VI 78756",colinhill@example.com,Cheff,32895,-60.495525,106.96245
-8,93,Terry White,1/13/1953,"75862 Amanda Fords
-Richardsontown, NV 73853",sarah59@example.net,Teacher Assistant,36681,-66.888334,-97.257143
-9,48,Stephen Meyer,8/30/1978,"7184 Janice Manor Suite 301
-Baileyland, VA 24635",alechall@example.org,Manager,37831,-86.247974,149.935309
-10,57,Michael Snyder,9/6/1973,"USNS Green
-FPO AE 44123",bortega@example.org,Nurse,36451,41.407106,162.168745
-11,35,Bryan Jackson,7/16/1992,"6091 Mitchell Streets
-Brookeburgh, AK 66515",fmeyers@example.org,Secretary,21177,-44.475874,111.072784
-12,4,Cindy Stevens,8/6/1999,"Unit 4067 Box 0523
-DPO AP 10732",jacqueline39@example.net,Nurse,31928,85.849949,-138.056629
-13,60,Christopher Olsen,4/6/2004,"9538 Gloria Avenue Suite 698
-West Lisa, NV 82222",pperez@example.net,Teacher,30435,-39.5270265,-28.219985
-14,49,Patrick Flores,7/17/1966,"0035 Raymond Ridges Apt. 633
-Sergiofurt, IL 90615",wgreen@example.net,Teacher,33880,-21.7150775,133.084928
-15,68,Ashley Shaffer,12/16/1969,"2181 Love Flats Suite 106
-New Jeremiah, ME 99114",cunninghamashley@example.net,Secretary,25389,86.645182,70.596977
-16,72,Jose Kelley,10/5/1978,"6430 Green Rapid
-West Rachel, IA 62638",jonesjoshua@example.org,Secretary,25814,-80.052164,171.894216
-17,31,Michael Owen,12/6/1952,"53729 Carson Common Suite 879
-Meyerville, KS 88324",lukele@example.net,Teacher Assistant,27556,82.8426835,-17.034143
-18,4,William Boone,6/4/2005,"559 Briggs Pass Apt. 185
-Dixonside, MP 80552",caseyhess@example.org,Secretary,25790,20.5257195,-63.842543
-19,42,Sarah Freeman,3/7/1960,"2600 Angela Oval Apt. 889
-Peckfort, CA 45742",robertweeks@example.com,Teacher Assistant,25688,31.626782,-161.022161
+0,12.0,Rhonda Clements,2002-07-03,"1208 Michaela Village Suite 342
+North Heatherborough, NJ 60171",kayleerogers@example.net,Manager,40000.0,-35.3027925,-164.580958
+1,47.0,Jennifer Russo DDS,1988-11-09,"1239 Cameron Shore
+Port Denisestad, NV 54033",charles99@example.net,Manager Assistant,21000.0,57.675088,75.440255
+2,95.0,Sarah Ward,1954-10-01,"9754 Garza Fields Apt. 387
+Lake Keith, AZ 70850",michaelfox@example.com,Nurse,35000.0,-55.239698,-69.416265
+3,33.0,Jenny Gonzalez,1954-08-04,"006 Erica Flat
+North Crystal, WV 50216",romanmelanie@example.com,Maintenance,20000.0,77.4010085,-0.506096
+4,78.0,Marilyn Rogers,1987-04-11,"470 Rodriguez Glen
+Lake Scottfort, CT 95340",adamsjonathan@example.net,Cheff,23000.0,-59.829569,-4.858931
+5,75.0,Laura Davis,1996-07-29,"841 Walton Spring
+Bobbychester, IN 99593",ybaker@example.org,Cheff,23000.0,40.824307,-80.356778
+6,56.0,Justin Duffy,1985-07-15,"27281 Matthew Route
+Lake Paul, AS 96962",robertpeterson@example.com,Maintenance,20000.0,16.4215945,-27.253679
+7,93.0,Kathryn Munoz,1977-06-16,"7698 Michelle Walks
+New Christophermouth, MD 83114",gdonovan@example.net,Maintenance,20000.0,88.6260005,-83.728767
