@@ -1,47 +1,47 @@
 employee_id,employee_name,birthdate,address,email,job_title,salary_year,latitude,longitude
-22,Jasmine Wilson,1963-01-07,"419 Crawford Crossroad Apt. 647
+22,Jasmine Wilson,1/7/1963,"419 Crawford Crossroad Apt. 647
 Masonmouth, OK 87813",nicholas49@example.org,Maintenance,20000,18.764498,33.027073
-23,Nathan Fleming,1996-07-28,"933 Stephanie Springs Suite 092
+23,Nathan Fleming,7/28/1996,"933 Stephanie Springs Suite 092
 New Jenniferville, KY 68195",samanthamcgee@example.com,Maintenance,20000,-49.813113,-65.905539
-24,Brian Lambert,1998-08-22,"2481 Eduardo Branch Suite 503
-Williamsmouth, UT 23032",qhays@example.org,Manager,40000,16.9736125,-151.734360
-25,Bryan Greene,1975-04-17,"410 Miller Village
+24,Brian Lambert,8/22/1998,"2481 Eduardo Branch Suite 503
+Williamsmouth, UT 23032",qhays@example.org,Manager,40000,16.9736125,-151.73436
+25,Bryan Greene,4/17/1975,"410 Miller Village
 Leonardview, CO 77388",rangeltroy@example.com,Manager Assistant,21000,7.884049,-10.524734
-26,Robert Garrett,1978-10-31,"16233 Smith Village
+26,Robert Garrett,10/31/1978,"16233 Smith Village
 Nancyview, WV 37629",townsendethan@example.com,Nurse,35000,54.4513685,31.493214
-27,Alicia Lester,1993-08-08,"45843 David Port Apt. 798
+27,Alicia Lester,8/8/1993,"45843 David Port Apt. 798
 Wilkinsonview, MH 06903",waltonalexandra@example.org,Teacher Assistant,27000,-80.823746,-49.902876
-28,Kimberly Burnett,1997-12-01,"84960 Jessica Inlet
+28,Kimberly Burnett,12/1/1997,"84960 Jessica Inlet
 Mcleanchester, MT 86076",alyssawilliams@example.org,Teacher,30000,13.745726,19.635648
-29,Harold Conley,1987-09-24,"PSC 6378, Box 3548
+29,Harold Conley,9/24/1987,"PSC 6378, Box 3548
 APO AP 46019",vthomas@example.net,Teacher Assistant,27000,10.9343725,18.058853
-30,Ms. Jody Reeves,1958-07-28,"25146 Jeffrey Shoal Suite 218
-East Ambershire, AK 13494",lindawilson@example.net,Teacher Assistant,27000,-17.774075,159.530310
-31,Crystal Mcgee,2005-01-09,"5436 Brown Street
-Lake Shaneview, KY 55063",iparker@example.net,Teacher,30000,-23.833405,-102.412370
-32,Brian House,1983-10-26,"PSC 9379, Box 3770
+30,Ms. Jody Reeves,7/28/1958,"25146 Jeffrey Shoal Suite 218
+East Ambershire, AK 13494",lindawilson@example.net,Teacher Assistant,27000,-17.774075,159.53031
+31,Crystal Mcgee,1/9/2005,"5436 Brown Street
+Lake Shaneview, KY 55063",iparker@example.net,Teacher,30000,-23.833405,-102.41237
+32,Brian House,10/26/1983,"PSC 9379, Box 3770
 APO AP 47200",floreschristine@example.org,Cheff,23000,-83.418456,-21.142485
-33,Erica Parks,1977-07-24,"USNV Duncan
+33,Erica Parks,7/24/1977,"USNV Duncan
 FPO AA 95903",john30@example.net,Teacher,30000,19.5650145,-156.479195
-34,Jessica Jones,2003-06-14,"2207 Garcia Tunnel
+34,Jessica Jones,6/14/2003,"2207 Garcia Tunnel
 West Justin, NY 36950",jasonwhite@example.com,Maintenance,20000,3.6166665,-24.547649
-35,Daniel Rocha,2005-07-24,"86801 Sellers Drives
+35,Daniel Rocha,7/24/2005,"86801 Sellers Drives
 West Joseph, PA 55147",blakebrewer@example.com,Teacher Assistant,27000,37.5706665,108.026475
-36,Ryan Mueller,2004-02-01,"USNV Young
-FPO AE 86084",dale41@example.org,Teacher,30000,-79.180710,-43.864394
-37,Antonio Alvarez,1955-10-14,"27635 Andrew Streets Apt. 169
+36,Ryan Mueller,2/1/2004,"USNV Young
+FPO AE 86084",dale41@example.org,Teacher,30000,-79.18071,-43.864394
+37,Antonio Alvarez,10/14/1955,"27635 Andrew Streets Apt. 169
 Milestown, NV 16040",chavezeric@example.com,Teacher Assistant,27000,-82.238295,-107.342997
-38,Brian Alvarez,1964-06-09,"2100 Elizabeth Views Apt. 571
+38,Brian Alvarez,6/9/1964,"2100 Elizabeth Views Apt. 571
 Traviston, CT 96107",rebeccaortiz@example.com,Teacher Assistant,27000,-8.9675665,-58.798334
-39,Erin Oliver,1999-12-15,"805 John Valleys
+39,Erin Oliver,12/15/1999,"805 John Valleys
 Lake James, PA 67748",lisa41@example.net,Teacher,30000,52.175267,112.801078
-40,Alicia Adams,1954-09-30,"49044 Church Haven
+40,Alicia Adams,9/30/1954,"49044 Church Haven
 Clarkland, NJ 98534",ohicks@example.org,Teacher,30000,-41.042439,-34.986018
-41,Richard Martin,2004-03-01,"544 Robert Ford
+41,Richard Martin,3/1/2004,"544 Robert Ford
 Serranofurt, ID 39638",heathernixon@example.org,Teacher,30000,-35.512084,32.658464
-42,Andrew Lopez,1995-10-21,"6195 Arthur Ranch Suite 518
+42,Andrew Lopez,10/21/1995,"6195 Arthur Ranch Suite 518
 North Catherinemouth, VI 93499",patrickclarke@example.org,Cheff,23000,23.3614255,135.241126
-43,Susan Davis,1999-10-04,"Unit 8605 Box 9623
+43,Susan Davis,10/4/1999,"Unit 8605 Box 9623
 DPO AA 30392",fernandezmario@example.net,Teacher,30000,8.487729,-20.292939
-44,Gary Smith,1964-07-15,"4743 Stephens Corners Suite 256
-Port Kellyburgh, KS 91476",dayala@example.com,Teacher,30000,-77.7142125,84.546300
+44,Gary Smith,7/15/1964,"4743 Stephens Corners Suite 256
+Port Kellyburgh, KS 91476",dayala@example.com,Teacher,30000,-77.7142125,84.5463
