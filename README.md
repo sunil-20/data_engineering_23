@@ -41,5 +41,5 @@ Data Security, Privacy, and Compliance,
 Lectures: Hands on<br>
 Duration: 25 hours<br>
 Skill level: beginner, intermediate<br>
-Category: Data Science, Machine Learning<br>
+Category: Data Science & Machine Learning<br>
 Instructor: Anju Mercian
