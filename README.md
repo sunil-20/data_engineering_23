@@ -1,7 +1,7 @@
 ## OMDENA: Fundamentals of Data Engineering: Principles and Techniques for Building Scalable Data Pipelines
 This course was designed for those who are interested in career related to: Data engineering, Data analyst, Data Scientist, IT professionals, and Business analysts. 
 ## Targeted learning outcome
-The course was designed to have a strong understanding of the principles and techniques used in data engineering and to aquaint with design, implement, and manage data systems that can handle large volumes of data. Additionally, the course was designed to build a project where participants can apply the knowledge gained through the couse to practically design and implement a scalable and reliable data piplines.
+The course was designed to have a strong understanding of the principles and techniques used in data engineering and to acquaint with design, implement, and manage data systems that can handle large volumes of data. Additionally, the course was designed to build a project where participants can apply the knowledge gained through the couse to practically design and implement a scalable and reliable data piplines.
 
 ## Syllabus
 ## 1. Introduction to Data Engineering
