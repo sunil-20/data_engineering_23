@@ -1,0 +1,101 @@
+customer_id,child_name,child_birthday,child_age,Food_Preference,Food_Allergies,Allergy_type,Neurotype,Scale_Spectrum,Class_Room
+33,Suzanne Edwards,2022-04-20,1,Vegan,Y,Gluten,Normative,NA,A
+61,Douglas Fisher Jr.,2022-07-02,1,Flexitarian,N,NA,Normative,NA,A
+59,Jose Garcia,2022-03-10,1,Flexitarian,N,NA,Normative,NA,A
+35,Mark Bailey,2022-05-24,1,Flexitarian,N,NA,Normative,NA,A
+1,Julia Alvarado,2022-07-30,1,Flexitarian,Y,Dairy,Normative,NA,A
+5,James Oliver,2021-11-07,1,Flexitarian,N,NA,Normative,NA,A
+80,James Curry,2022-03-23,1,Vegetarian,Y,Animal protein,Autism,highly functional,A
+95,Amy Rodriguez,2022-07-28,1,Vegetarian,N,NA,Normative,highly functional,A
+62,Nicholas Lam,2021-11-17,1,Flexitarian,N,NA,Normative,highly functional,A
+51,Vincent Mcbride,2021-12-31,1,Flexitarian,N,NA,Normative,highly functional,A
+48,Mrs. Margaret Williams,2021-12-14,1,Flexitarian,N,NA,Normative,highly functional,A
+40,Stuart Howell,2022-07-03,1,Vegan,N,NA,Normative,highly functional,A
+48,Zachary Warner,2022-06-02,1,Vegetarian,Y,Animal protein,ADHD,highly functional,A
+32,Mike Farrell,2022-09-26,1,Vegetarian,N,NA,Normative,NA,A
+60,Michael Bailey,2022-02-02,1,Vegetarian,N,NA,Normative,NA,A
+70,Candace Webster,2021-10-09,2,Flexitarian,N,NA,Normative,NA,B
+68,John Wilson,2021-01-09,2,Flexitarian,N,NA,Normative,NA,B
+68,Alfred Bell,2020-11-25,2,Flexitarian,N,NA,Normative,NA,B
+42,Ray Griffith,2021-08-26,2,Flexitarian,N,NA,Normative,NA,B
+80,Beth Simmons,2021-10-04,2,Flexitarian,N,NA,Normative,NA,B
+38,Brian Dunlap,2020-12-06,2,Flexitarian,Y,Nut,Normative,NA,B
+35,Terry Henderson,2021-06-20,2,Flexitarian,N,NA,Normative,NA,B
+77,Jason Giles,2021-06-15,2,Flexitarian,N,NA,Normative,NA,B
+71,Joyce Johnson,2021-06-08,2,Flexitarian,N,NA,Normative,NA,B
+70,Ronald Sanchez,2021-05-01,2,Vegetarian,Y,Animal protein,Autism,highly functional,B
+23,Robert Jackson,2021-01-21,2,Vegetarian,N,NA,Normative,NA,B
+79,Virginia Green,2021-10-23,2,Vegetarian,N,NA,Normative,NA,B
+96,Shawn Kennedy,2021-03-27,2,Vegetarian,Y,Animal protein,ADHD,highly functional,B
+67,Pamela Schmidt,2021-09-10,2,Vegetarian,N,NA,Normative,NA,B
+79,George Nelson,2021-01-07,2,Vegetarian,N,NA,Normative,NA,B
+74,Michael Johnson,2020-12-15,2,Vegan,Y,Animal protein,ADHD,highly functional,B
+93,Mr. Martin Knight,2021-05-31,2,Vegan,N,NA,Normative,NA,B
+28,Richard Williams,2021-07-07,2,Vegan,N,NA,Normative,NA,B
+75,Mrs. Amanda Taylor,2021-02-27,2,Vegan,N,NA,Normative,NA,B
+24,Raymond Gonzales,2021-07-03,2,Vegan,N,NA,Normative,NA,B
+91,Sarah Adkins,2021-07-18,2,Vegan,N,NA,Normative,NA,B
+31,Nicole Marshall MD,2021-03-24,2,Flexitarian,N,NA,Normative,NA,B
+97,Johnny Torres,2021-08-20,2,Flexitarian,N,NA,Normative,NA,B
+98,Russell Fitzgerald,2020-06-20,3,Vegan,Y,Gluten,Normative,NA,C 
+86,Kaitlyn Perez,2020-07-15,3,Flexitarian,N,NA,Normative,NA,C 
+73,Jack Jimenez,2020-05-01,3,Flexitarian,N,NA,Normative,NA,C 
+18,Jenna Wells DDS,2020-07-17,3,Flexitarian,N,NA,Normative,NA,C 
+62,Abigail Olsen,2020-09-19,3,Flexitarian,Y,Dairy,Normative,NA,C 
+71,Alexis Barnes,2020-01-27,3,Flexitarian,N,NA,Normative,NA,C 
+58,Veronica White,2019-11-28,3,Vegetarian,Y,Animal protein,Autism,highly functional,C 
+91,Christopher Adams,2020-02-11,3,Vegetarian,N,NA,Normative,highly functional,C 
+54,Karen Henderson,2020-05-15,3,Flexitarian,N,NA,Normative,highly functional,C 
+24,Donald Allen,2019-11-30,3,Flexitarian,N,NA,Normative,highly functional,C 
+43,Keith Taylor,2020-09-27,3,Flexitarian,N,NA,Normative,highly functional,C 
+75,Ronald Smith,2020-01-28,3,Vegan,N,NA,Normative,highly functional,C 
+65,Dana Ware,2020-04-16,3,Vegetarian,Y,Animal protein,ADHD,highly functional,C 
+33,Tammy Galvan,2019-11-08,3,Vegetarian,N,NA,Normative,NA,C 
+46,Theresa Cox,2020-08-06,3,Vegetarian,N,NA,Normative,NA,C 
+10,Cindy Barrera,2020-03-16,3,Flexitarian,N,NA,Normative,NA,C 
+68,Laura Mcdaniel DDS,2020-08-29,3,Flexitarian,N,NA,Normative,NA,C 
+66,David Salinas,2020-10-07,3,Flexitarian,N,NA,Normative,NA,C 
+6,Joseph Riley,2020-04-01,3,Flexitarian,N,NA,Normative,NA,C 
+60,Peter Chapman,2020-07-29,3,Flexitarian,N,NA,Normative,NA,C 
+82,Malik Benson,2020-07-23,3,Flexitarian,Y,Nut,Normative,NA,C 
+63,Erin Howard,2020-10-03,3,Flexitarian,N,NA,Normative,NA,C 
+6,Renee Davis,2020-02-21,3,Flexitarian,N,NA,Normative,NA,C 
+44,Steven Valdez,2020-09-04,3,Flexitarian,N,NA,Normative,NA,C 
+96,Anna Serrano,2020-10-24,3,Vegetarian,Y,Animal protein,Autism,highly functional,C 
+19,Edward King,2020-02-08,3,Vegetarian,N,NA,Normative,NA,C 
+73,John Hunt,2020-01-06,3,Vegetarian,N,NA,Normative,NA,C 
+57,Thomas Church,2020-06-11,3,Vegetarian,Y,Animal protein,ADHD,highly functional,C 
+57,Tanya Randall,2020-05-08,3,Vegetarian,N,NA,Normative,NA,C 
+10,Ashley Fuentes,2020-10-17,3,Vegetarian,N,NA,Normative,NA,C 
+24,Sydney Webster,2019-01-04,4,Vegan,Y,Animal protein,ADHD,highly functional,D
+10,Stacey Rivera,2019-04-26,4,Vegan,N,NA,Normative,NA,D
+39,Mario Bass,2018-12-30,4,Vegan,N,NA,Normative,NA,D
+57,Laura Montgomery,2019-07-16,4,Vegan,N,NA,Normative,NA,D
+84,Brianna Nguyen,2019-09-17,4,Vegan,N,NA,Normative,NA,D
+88,Dawn Duran,2019-05-26,4,Vegan,N,NA,Normative,NA,D
+89,Dawn Smith,2019-03-24,4,Flexitarian,N,NA,Normative,NA,D
+68,Derrick Oliver,2019-10-10,4,Flexitarian,N,NA,Normative,NA,D
+69,Edward Cole,2019-06-16,4,Vegetarian,N,NA,Normative,highly functional,D
+92,Kevin Bruce,2019-08-19,4,Flexitarian,N,NA,Normative,highly functional,D
+77,Katelyn Gordon,2019-10-31,4,Flexitarian,N,NA,Normative,highly functional,D
+77,Jennifer White,2019-07-27,4,Flexitarian,N,NA,Normative,highly functional,D
+32,Jacob Sanchez,2019-04-20,4,Vegan,N,NA,Normative,highly functional,D
+83,Kirsten Lin,2019-01-26,4,Vegetarian,Y,Animal protein,ADHD,highly functional,D
+92,Christine Mayer,2019-06-14,4,Vegetarian,N,NA,Normative,NA,D
+87,Michael Ferguson,2018-11-12,4,Vegetarian,N,NA,Normative,NA,D
+27,Tyler Bradshaw,2018-12-28,4,Flexitarian,N,NA,Normative,NA,D
+27,Alejandro Christensen,2018-09-28,5,Flexitarian,N,NA,Normative,NA,E
+6,Shawn Townsend,2018-05-20,5,Flexitarian,N,NA,Normative,NA,E
+19,Benjamin Stephens,2018-04-03,5,Vegetarian,Y,Animal protein,ADHD,highly functional,E
+64,Stephanie Martin,2018-06-12,5,Flexitarian,N,NA,Normative,NA,E
+90,Patricia Hardin,2018-01-06,5,Flexitarian,Y,Nut,Normative,NA,E
+49,Dominic Smith,2018-04-06,5,Flexitarian,N,NA,Normative,NA,E
+77,Lorraine Mcgee,2018-08-15,5,Flexitarian,N,NA,Normative,NA,E
+51,Amanda Houston,2017-11-26,5,Flexitarian,N,NA,Normative,NA,E
+93,Robert Perez,2018-10-08,5,Vegetarian,Y,Animal protein,Autism,highly functional,E
+6,John Underwood,2018-02-27,5,Vegetarian,N,NA,Normative,NA,E
+80,Sarah Hart,2018-05-07,5,Vegetarian,N,NA,Normative,NA,E
+31,Collin Smith,2018-03-19,5,Vegetarian,Y,Animal protein,ADHD,highly functional,E
+25,John Hall,2018-10-26,5,Vegetarian,N,NA,Normative,NA,E
+43,Kristen Lewis,2018-10-09,5,Vegetarian,N,NA,Normative,NA,E
+74,Jeanne Jones,2018-10-26,5,Vegan,Y,Animal protein,ADHD,highly functional,E
