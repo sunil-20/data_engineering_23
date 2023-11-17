@@ -3,6 +3,7 @@ import pandas as pd
 from daycare_tables.kid import Kid
 from daycare_tables.caregiver import Caregiver
 from daycare_tables.consent import Consent
+from daycare_tables.contract import Contract
 
 #generate kid table
 kid_instance = Kid(x=100)
@@ -22,3 +23,9 @@ consent_instance = Consent(x=20)
 consent_data = consent_instance.generate_data()
 #save to CSV
 consent_data.to_csv("csv_tables/consent.csv", index = False)
+
+#generate contract table
+contract_instance = Contract(x=20)
+contract_data = contract_instance.generate_data()
+#save
+contract_data.to_csv("csv_tables/contract.csv", index = False)
