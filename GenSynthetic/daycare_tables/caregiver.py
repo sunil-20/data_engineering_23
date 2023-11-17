@@ -18,7 +18,7 @@ class Caregiver:
         self.certificte_type = ["A","B","C","D"]
 
     # generate table
-    def generate_data(self, digits_id=3, digits_parent=3, digits_other=4):
+    def generate_data(self, digits_id=3):
         data = pd.DataFrame()
         for i in range(self.x):
             data.loc[i, "caregiver_id"] = self.uid_gen.generate_uid(digits_id)
