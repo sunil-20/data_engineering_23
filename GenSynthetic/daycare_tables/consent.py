@@ -39,9 +39,7 @@ class Consent:
         return data 
 
 
-
 # erdlab import
-
 
 # Consent {
 # 	consent_id integer pk null increments
