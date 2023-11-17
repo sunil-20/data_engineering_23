@@ -4,6 +4,7 @@ from daycare_tables.kid import Kid
 from daycare_tables.caregiver import Caregiver
 from daycare_tables.consent import Consent
 from daycare_tables.contract import Contract
+from daycare_tables.course import Course
 
 #generate kid table
 kid_instance = Kid(x=100)
@@ -29,3 +30,9 @@ contract_instance = Contract(x=20)
 contract_data = contract_instance.generate_data()
 #save
 contract_data.to_csv("csv_tables/contract.csv", index = False)
+
+#generate course table
+course_instance = Course(x=100)
+course_data = course_instance.generate_data()
+#save
+course_data.to_csv("csv_tables/course.csv", index = False)
