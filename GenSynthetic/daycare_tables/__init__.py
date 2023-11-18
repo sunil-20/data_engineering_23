@@ -3,7 +3,7 @@ __all__ = [
     'Kid', 'Caregiver', 'Consent', 'Contract', 'Course',
     'Group_schedule', 'Group', 'Kid_schedule', 'Medical_details',
     'Orders_details', 'Orders', 'Parent', 'Products', 'Staff',
-    'Stocks', 'Suppliers', 'Transactions',
+    'Stocks', 'Suppliers', 'Transactions', 'Medication_log',
 ]
 
 from .kid import Kid
@@ -23,3 +23,4 @@ from .staff import Staff
 from .stocks import Stocks
 from .suppliers import Suppliers
 from .transactions import Transactions
+from .medication_log import Medication_log

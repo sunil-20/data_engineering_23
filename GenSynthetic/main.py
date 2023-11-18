@@ -4,7 +4,7 @@ from daycare_tables import (
     Kid, Caregiver, Consent, Contract, Course,
     Group_schedule, Group, Kid_schedule, Medical_details,
     Orders_details, Orders, Parent, Products, Staff,
-    Stocks, Suppliers, Transactions
+    Stocks, Suppliers, Transactions, Medication_log
 )
 
 # set the working directory to the script's location
@@ -35,6 +35,7 @@ tables = [
     (Stocks, 100),
     (Suppliers, 10),
     (Transactions, 100),
+    (Medication_log, 40)
 ]
 
 # Loop through the tables and generate/export data
