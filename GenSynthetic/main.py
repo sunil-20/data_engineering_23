@@ -7,6 +7,7 @@ from daycare_tables.contract import Contract
 from daycare_tables.course import Course
 from daycare_tables.group_schedule import Group_schedule
 from daycare_tables.group import Group
+from daycare_tables.kid_schedule import Kid_schedule
 
 #generate kid table
 kid_instance = Kid(x=100)
@@ -50,3 +51,9 @@ group_instance = Group(x = 100)
 group_data = group_instance.generate_data()
 #save
 group_data.to_csv("csv_tables/group.csv", index = False)
+
+#generate kid_schedule
+kid_schedule_instance = Kid_schedule(x = 100)
+kid_schedule_data = kid_schedule_instance.generate_data()
+#save
+kid_schedule_data.to_csv("csv_tables/kid_schedule.csv", index = False)
