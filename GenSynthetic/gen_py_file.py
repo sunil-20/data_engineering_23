@@ -20,6 +20,7 @@ table_names = [
     "Suppliers",
     "Orders",
     "Transactions",
+    "Medication_log"
 ]
 
 # Create a separate directory/folder to save py files
