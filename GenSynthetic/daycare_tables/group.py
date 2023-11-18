@@ -3,7 +3,6 @@ from random import seed, randint
 import pandas as pd
 from faker import Faker
 from .uid_generator import UIDGenerator
-from datetime import datetime, timedelta
 
 class Group:
     def __init__(self, x):
