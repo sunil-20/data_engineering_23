@@ -14,9 +14,6 @@ class Group:
         # set seed
         seed(2)
 
-        # #define list for data generation
-        self.contract_number = ["AAA","BBB","CCC","DDD"]
-
     # generate table
     def generate_data(self, digits_id=3):
         data = pd.DataFrame()
