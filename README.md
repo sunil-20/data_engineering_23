@@ -1,8 +1,8 @@
 
-## folder info
-Download GenSynthetic to run the script which will create folders with synthetic data on it.
+## Repository Information
+If you want to create tables download GenSynthetic to run the script main.py which will create a folder named csv_tables with tables and synthetic data on it.
 ___
-
+___
 ## OMDENA: Fundamentals of Data Engineering: Principles and Techniques for Building Scalable Data Pipelines
 This course was designed for those who are interested in career related to: Data engineering, Data analyst, Data Scientist, IT professionals, and Business analysts. 
 ## Targeted learning outcome
