@@ -17,6 +17,7 @@ from daycare_tables.products import Products
 from daycare_tables.staff import Staff
 from daycare_tables.stocks import Stocks
 from daycare_tables.suppliers import Suppliers
+from daycare_tables.transactions import Transactions
 #generate kid table
 kid_instance = Kid(x=100)
 kid_data = kid_instance.generate_data()
@@ -112,3 +113,9 @@ suppliers_instance = Suppliers(x=10)
 suppliers_data = suppliers_instance.generate_data()
 # save to CSV
 suppliers_data.to_csv("csv_tables/suppliers.csv", index=False)
+
+# generate transactions table
+transactions_instance = Transactions(x=100)
+transactions_data = transactions_instance.generate_data()
+# save to CSV
+transactions_data.to_csv("csv_tables/transactions.csv", index=False)
