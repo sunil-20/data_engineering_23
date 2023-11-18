@@ -1,101 +1,101 @@
 product_id,name,supplier_id
-543.0,First aid kit,746.0
-738.0,Sensory toys,199.0
-392.0,Crib sheets,460.0
-567.0,Hand sanitizer,692.0
-905.0,Formula or breast milk,551.0
-717.0,Lotion,699.0
-222.0,Sleeping bags,118.0
-9.0,Wipes,800.0
-574.0,Fire extinguisher,146.0
-439.0,Smoke detectors,997.0
-7.0,Hand sanitizer,858.0
-690.0,Bottles or sippy cups,224.0
-493.0,Shampoo and conditioner,589.0
-978.0,Trash bags,840.0
-818.0,Bottles or sippy cups,142.0
-107.0,Carbon monoxide detectors,148.0
-739.0,Trash bags,708.0
-462.0,Extra changes of clothes,442.0
-274.0,Hand soap,322.0
-844.0,Sensory toys,826.0
-406.0,Trash bags,782.0
-98.0,Multi-purpose cleaner,468.0
-834.0,Trash bags,660.0
-212.0,Baby food (if age-appropriate),612.0
-351.0,Fire extinguisher,194.0
-279.0,High chairs or booster seats,233.0
-153.0,Bottles or sippy cups,10.0
-475.0,Outdoor play equipment,197.0
-396.0,First aid kit,773.0
-622.0,Sleeping bags,669.0
-518.0,Disinfecting wipes,53.0
-235.0,Hand soap,127.0
-375.0,Outdoor play equipment,945.0
-780.0,Blankets,438.0
-803.0,Baby food (if age-appropriate),530.0
-179.0,First aid kit,92.0
-456.0,Baby food (if age-appropriate),469.0
-221.0,Carbon monoxide detectors,817.0
-25.0,Hand soap,805.0
-220.0,Diapers,330.0
-282.0,Sensory toys,445.0
-318.0,Paper towels,387.0
-743.0,Outdoor play equipment,917.0
-411.0,Toys,408.0
-697.0,Baby gates,47.0
-854.0,Disinfecting wipes,415.0
-779.0,Diaper rash cream,56.0
-244.0,Carbon monoxide detectors,639.0
-149.0,Carbon monoxide detectors,372.0
-152.0,Carbon monoxide detectors,344.0
-554.0,Sleeping bags,470.0
-55.0,Fire extinguisher,637.0
-312.0,Wipes,996.0
-217.0,Sunscreen,740.0
-641.0,Bath towels,133.0
-538.0,Trash bags,272.0
-269.0,Smoke detectors,436.0
-1.0,Multi-purpose cleaner,189.0
-923.0,Lotion,508.0
-767.0,Crib sheets,278.0
-204.0,Sunscreen,393.0
-600.0,Diapers,847.0
-105.0,Shampoo and conditioner,84.0
-161.0,Baby gates,524.0
-539.0,Sunscreen,422.0
-667.0,Bath towels,784.0
-853.0,Sleeping bags,915.0
-601.0,Carbon monoxide detectors,828.0
-688.0,Disinfecting wipes,444.0
-955.0,Formula or breast milk,643.0
-96.0,Disposable changing pads,809.0
-171.0,Disposable changing pads,837.0
-40.0,Extra changes of clothes,359.0
-22.0,Hand sanitizer,820.0
-962.0,Baby gates,378.0
-673.0,Outdoor play equipment,350.0
-792.0,Sleeping bags,835.0
-326.0,Art supplies,288.0
-429.0,First aid kit,264.0
-117.0,Toys,903.0
-21.0,Blankets,210.0
-527.0,Blankets,93.0
-736.0,Sensory toys,370.0
-428.0,Disposable changing pads,357.0
-843.0,Sunscreen,421.0
-265.0,Bibs,521.0
-450.0,Crib sheets,41.0
-891.0,Outdoor play equipment,516.0
-389.0,Art supplies,435.0
-432.0,Books,485.0
-856.0,Sunscreen,764.0
-216.0,Sensory toys,94.0
-349.0,Crib sheets,491.0
-871.0,Sensory toys,478.0
-291.0,Toothbrushes and toothpaste,556.0
-755.0,Carbon monoxide detectors,488.0
-831.0,Disinfecting wipes,252.0
-638.0,Hand soap,765.0
-122.0,Baby gates,377.0
-640.0,Multi-purpose cleaner,787.0
+955.0,Diaper rash cream,60.0
+248.0,Blankets,587.0
+771.0,Crib sheets,444.0
+297.0,Diapers,996.0
+543.0,Extra changes of clothes,136.0
+15.0,Crib sheets,836.0
+720.0,Extra changes of clothes,914.0
+48.0,Formula or breast milk,457.0
+647.0,Diaper rash cream,816.0
+107.0,Crib sheets,810.0
+399.0,Toothbrushes and toothpaste,688.0
+982.0,Smoke detectors,209.0
+939.0,Trash bags,757.0
+196.0,Fire extinguisher,264.0
+534.0,Disposable changing pads,281.0
+498.0,Disinfecting wipes,47.0
+603.0,Outdoor play equipment,872.0
+143.0,Books,53.0
+9.0,Formula or breast milk,517.0
+575.0,Paper towels,42.0
+303.0,First aid kit,35.0
+180.0,High chairs or booster seats,321.0
+894.0,Baby food (if age-appropriate),899.0
+785.0,Lotion,416.0
+1.0,Toys,723.0
+435.0,Extra changes of clothes,134.0
+90.0,Trash bags,866.0
+711.0,Baby gates,476.0
+800.0,Formula or breast milk,351.0
+833.0,Hand soap,289.0
+773.0,Diaper rash cream,195.0
+224.0,Sunscreen,880.0
+411.0,High chairs or booster seats,112.0
+211.0,Toothbrushes and toothpaste,622.0
+491.0,Extra changes of clothes,563.0
+279.0,Crib sheets,84.0
+359.0,Books,213.0
+552.0,Baby food (if age-appropriate),191.0
+649.0,Disposable changing pads,709.0
+311.0,Diapers,533.0
+198.0,Disinfecting wipes,499.0
+678.0,Art supplies,972.0
+646.0,Hand soap,544.0
+484.0,Formula or breast milk,669.0
+990.0,Carbon monoxide detectors,714.0
+135.0,Multi-purpose cleaner,256.0
+314.0,Bottles or sippy cups,889.0
+167.0,Outdoor play equipment,332.0
+876.0,High chairs or booster seats,225.0
+104.0,Extra changes of clothes,505.0
+689.0,High chairs or booster seats,249.0
+41.0,Wipes,780.0
+726.0,Crib sheets,613.0
+822.0,Trash bags,139.0
+481.0,Smoke detectors,952.0
+863.0,Paper towels,509.0
+99.0,Blankets,395.0
+337.0,Crib sheets,130.0
+322.0,Smoke detectors,724.0
+221.0,Hand sanitizer,918.0
+626.0,Bottles or sippy cups,768.0
+931.0,Lotion,891.0
+777.0,Wipes,848.0
+158.0,Outdoor play equipment,384.0
+3.0,Disposable changing pads,858.0
+443.0,Formula or breast milk,902.0
+594.0,Smoke detectors,449.0
+117.0,Diaper rash cream,8.0
+434.0,Bottles or sippy cups,93.0
+151.0,Baby food (if age-appropriate),632.0
+733.0,Hand soap,925.0
+61.0,Bibs,635.0
+696.0,Diaper rash cream,803.0
+469.0,Blankets,970.0
+712.0,First aid kit,51.0
+239.0,Trash bags,442.0
+693.0,Sleeping bags,144.0
+495.0,Disinfecting wipes,88.0
+404.0,Sleeping bags,919.0
+569.0,Smoke detectors,936.0
+708.0,Hand soap,605.0
+864.0,Bath towels,922.0
+625.0,Sleeping bags,814.0
+127.0,Toothbrushes and toothpaste,233.0
+409.0,Diapers,595.0
+799.0,Smoke detectors,49.0
+441.0,Extra changes of clothes,194.0
+312.0,Diapers,111.0
+663.0,Blankets,989.0
+54.0,Outdoor play equipment,849.0
+82.0,Crib sheets,775.0
+992.0,Sunscreen,943.0
+956.0,Books,987.0
+131.0,Outdoor play equipment,746.0
+157.0,Bibs,793.0
+285.0,Fire extinguisher,412.0
+263.0,Crib sheets,637.0
+946.0,Diapers,428.0
+108.0,Paper towels,548.0
+869.0,Trash bags,164.0
