@@ -1,5 +1,11 @@
 # main table.
 import pandas as pd
+import os
+
+# create a folder
+export_to_folder = "csv_tables"
+if not os.path.exists(export_to_folder):
+    os.makedirs(export_to_folder)
 
 from daycare_tables.kid import Kid
 from daycare_tables.caregiver import Caregiver
