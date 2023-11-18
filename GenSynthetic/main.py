@@ -15,7 +15,7 @@ from daycare_tables.orders import Orders
 from daycare_tables.parent import Parent
 from daycare_tables.products import Products
 from daycare_tables.staff import Staff
-
+from daycare_tables.stocks import Stocks
 #generate kid table
 kid_instance = Kid(x=100)
 kid_data = kid_instance.generate_data()
@@ -100,3 +100,8 @@ staff_data = staff_instance.generate_data()
 # save to CSV
 staff_data.to_csv("csv_tables/staff.csv", index=False)
 
+# generate stocks table
+stocks_instance = Stocks(x=100)
+stocks_data = stocks_instance.generate_data()
+# save to CSV
+stocks_data.to_csv("csv_tables/stocks.csv", index=False)
