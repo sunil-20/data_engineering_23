@@ -32,10 +32,13 @@ class Kid:
 
 # Data types and column names from erdlab
 
-	# kid_id integer > Kid_schedule.kid_id
-	# name varchar
-	# dob date
-	# parent_id integer > Parent.parent_id
-	# medical_id integer null > Medical_details.medical_id
-	# group_id integer > Group.group_id
+# Kid {
+# 	kid_id integer > Kid_schedule.kid_id
+# 	name varchar
+# 	dob date
+# 	parent_id integer > Parent.parent_id
+# 	medical_id integer null > Medical_details.medical_id
+# 	group_id integer > Group.group_id
+# }
+
 
