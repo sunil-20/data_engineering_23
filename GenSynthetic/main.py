@@ -1,5 +1,6 @@
 # main table.
 import pandas as pd
+
 from daycare_tables.kid import Kid
 from daycare_tables.caregiver import Caregiver
 from daycare_tables.consent import Consent
@@ -11,13 +12,15 @@ from daycare_tables.kid_schedule import Kid_schedule
 from daycare_tables.medical_details import Medical_details
 from daycare_tables.orders_details import Orders_details
 from daycare_tables.orders import Orders
+from daycare_tables.parent import Parent
+from daycare_tables.products import Products
+from daycare_tables.staff import Staff
 
 #generate kid table
 kid_instance = Kid(x=100)
 kid_data = kid_instance.generate_data()
 #save_to_CSV
 kid_data.to_csv("csv_tables/kid.csv", index = False)
-
 
 #generate caregiver table
 caregiver_instance = Caregiver(x=20)
@@ -76,6 +79,24 @@ orders_details_data.to_csv("csv_tables/orders_details.csv", index=False)
 # generate orders table
 orders_instance = Orders(x=100)
 orders_data = orders_instance.generate_data()
-
 # save to CSV
 orders_data.to_csv("csv_tables/orders.csv", index=False)
+
+# generate parent table
+parent_instance = Parent(x=100)
+parent_data = parent_instance.generate_data()
+# save to CSV
+parent_data.to_csv("csv_tables/parent.csv", index=False)
+
+# generate products table
+products_instance = Products(x=100)
+products_data = products_instance.generate_data()
+# save to CSV
+products_data.to_csv("csv_tables/products.csv", index=False)
+
+# generate staff table
+staff_instance = Staff(x=20)
+staff_data = staff_instance.generate_data()
+# save to CSV
+staff_data.to_csv("csv_tables/staff.csv", index=False)
+
