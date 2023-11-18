@@ -8,6 +8,7 @@ from daycare_tables.course import Course
 from daycare_tables.group_schedule import Group_schedule
 from daycare_tables.group import Group
 from daycare_tables.kid_schedule import Kid_schedule
+from daycare_tables.medical_details import Medical_details
 
 #generate kid table
 kid_instance = Kid(x=100)
@@ -57,3 +58,9 @@ kid_schedule_instance = Kid_schedule(x = 100)
 kid_schedule_data = kid_schedule_instance.generate_data()
 #save
 kid_schedule_data.to_csv("csv_tables/kid_schedule.csv", index = False)
+
+#generate medical_details 
+medical_details_instance = Medical_details(x = 100)
+medical_data = medical_details_instance.generate_data()
+#save
+medical_data.to_csv("csv_tables/medical_details.csv", index = False)
