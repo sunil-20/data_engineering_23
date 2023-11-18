@@ -9,6 +9,8 @@ from daycare_tables.group_schedule import Group_schedule
 from daycare_tables.group import Group
 from daycare_tables.kid_schedule import Kid_schedule
 from daycare_tables.medical_details import Medical_details
+from daycare_tables.orders_details import Orders_details
+from daycare_tables.orders import Orders
 
 #generate kid table
 kid_instance = Kid(x=100)
@@ -64,3 +66,16 @@ medical_details_instance = Medical_details(x = 100)
 medical_data = medical_details_instance.generate_data()
 #save
 medical_data.to_csv("csv_tables/medical_details.csv", index = False)
+
+# generate orders_details table
+orders_details_instance = Orders_details(x=100)
+orders_details_data = orders_details_instance.generate_data()
+# save to CSV
+orders_details_data.to_csv("csv_tables/orders_details.csv", index=False)
+
+# generate orders table
+orders_instance = Orders(x=100)
+orders_data = orders_instance.generate_data()
+
+# save to CSV
+orders_data.to_csv("csv_tables/orders.csv", index=False)
