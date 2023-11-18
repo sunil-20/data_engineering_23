@@ -1,3 +1,8 @@
+
+## folder info
+Download GenSynthetic to run the script which will create folders with synthetic data on it.
+___
+
 ## OMDENA: Fundamentals of Data Engineering: Principles and Techniques for Building Scalable Data Pipelines
 This course was designed for those who are interested in career related to: Data engineering, Data analyst, Data Scientist, IT professionals, and Business analysts. 
 ## Targeted learning outcome
