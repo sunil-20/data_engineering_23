@@ -1,0 +1,101 @@
+medical_id,food_allergy,medication,emergency_phone,blood_group,neurotype
+1.0,AAA,Immunization,669.992.8773,B,anxiety
+2.0,CCC,Immunization,(204)916-6383x4424,B,PTSDdyslexic
+3.0,AAA,Immunization,+1-444-707-3923x27924,A,ADHD
+4.0,DDD,Dev milestone,+1-682-558-4374x919,A,PTSDdyslexic
+5.0,AAA,IEP program,(759)498-6975,O-,anxiety
+6.0,CCC,IEP program,(570)964-6079x86678,O-,anxiety
+7.0,AAA,Dev milestone,4913206264,B,dyspraxia
+8.0,BBB,Medication,001-525-536-5679x82301,B,depression
+9.0,CCC,Immunization,001-594-528-4771x32419,B,ADHD
+10.0,BBB,Medication,486.320.1836x82854,B,depression
+11.0,DDD,Dev milestone,452.832.4264x9997,B,ADHD
+12.0,AAA,Medication,693.898.3974x734,O-,dyspraxia
+13.0,DDD,IEP program,001-958-888-5571,B,dyspraxia
+14.0,CCC,IEP program,001-902-790-7407x232,B,OCD
+15.0,BBB,Medication,001-668-609-9219x52305,A,anxiety
+16.0,DDD,Medication,+1-949-895-5672x6990,A,anxiety
+17.0,AAA,Dev milestone,001-722-561-2257x373,AB,OCD
+18.0,BBB,Medication,001-208-370-8727x860,B,PTSDdyslexic
+19.0,BBB,Immunization,491-981-1248,O-,depression
+20.0,AAA,Dev milestone,8789859362,O-,OCD
+21.0,BBB,Immunization,+1-528-731-0481,A,dyspraxia
+22.0,BBB,IEP program,+1-214-667-7264x802,AB,ASD
+23.0,DDD,Medication,001-771-783-2384x92652,A,ASD
+24.0,BBB,Medication,920.494.9232x6247,AB,PTSDdyslexic
+25.0,DDD,Medication,560-644-2679,B,PTSDdyslexic
+26.0,CCC,Medication,001-914-764-6613x880,A,anxiety
+27.0,DDD,IEP program,6903508544,AB,PTSDdyslexic
+28.0,DDD,IEP program,929-727-3042,A,ADHD
+29.0,BBB,Medication,4563226947,AB,ADHD
+30.0,CCC,IEP program,(828)239-6626x313,O-,dyspraxia
+31.0,CCC,Dev milestone,001-329-293-6273x8894,A,ADHD
+32.0,AAA,IEP program,931-602-2955,O-,ADHD
+33.0,BBB,Medication,714.946.5886x316,B,PTSDdyslexic
+34.0,BBB,Immunization,(961)726-3661x79485,O+,PTSDdyslexic
+35.0,BBB,IEP program,720.468.5109,B,dyspraxia
+36.0,DDD,Dev milestone,001-303-204-7798x09433,O-,ADHD
+37.0,DDD,Immunization,6406598538,AB,ASD
+38.0,AAA,Dev milestone,+1-584-302-5462x1247,AB,anxiety
+39.0,DDD,IEP program,4534239167,O+,ADHD
+40.0,BBB,Immunization,+1-902-510-3065,B,OCD
+41.0,CCC,Medication,628.251.7480x43494,O-,depression
+42.0,CCC,IEP program,9904022843,O-,OCD
+43.0,CCC,Immunization,(654)243-0985,O+,anxiety
+44.0,DDD,Dev milestone,254.369.5806,A,OCD
+45.0,AAA,Medication,418.390.9212,AB,ASD
+46.0,BBB,IEP program,559-717-3176x9044,O-,PTSDdyslexic
+47.0,CCC,Medication,518-851-3337x048,O+,ADHD
+48.0,BBB,Dev milestone,(242)406-5567,AB,PTSDdyslexic
+49.0,DDD,Dev milestone,747.590.7616,O+,depression
+50.0,DDD,Dev milestone,+1-466-297-2232x65487,O-,ASD
+51.0,DDD,Immunization,347-463-9986x44639,B,dyspraxia
+52.0,DDD,Dev milestone,(551)586-1832,AB,PTSDdyslexic
+53.0,AAA,Medication,+1-557-459-2247x2134,A,ASD
+54.0,BBB,Dev milestone,+1-654-866-5679,O-,PTSDdyslexic
+55.0,AAA,Dev milestone,(686)537-6056,O-,ASD
+56.0,CCC,Medication,+1-480-786-9878x14447,AB,depression
+57.0,AAA,Immunization,458.365.4979x0300,O-,dyspraxia
+58.0,BBB,Medication,001-764-629-6218x934,O-,anxiety
+59.0,CCC,Medication,(545)351-2937,O+,OCD
+60.0,CCC,Immunization,(927)764-1733,B,ASD
+61.0,BBB,Dev milestone,5639157908,AB,dyspraxia
+62.0,AAA,Medication,(422)831-8536x8906,O-,dyspraxia
+63.0,BBB,Dev milestone,001-242-776-1549,AB,PTSDdyslexic
+64.0,AAA,IEP program,+1-701-500-1271x33926,O-,dyspraxia
+65.0,CCC,IEP program,906.955.2343,AB,OCD
+66.0,BBB,Immunization,+1-541-509-5671x8416,B,PTSDdyslexic
+67.0,DDD,Dev milestone,(994)970-5253,B,ADHD
+68.0,AAA,Immunization,310.792.4786,B,OCD
+69.0,AAA,Dev milestone,321-580-7514x15615,O+,ADHD
+70.0,DDD,Dev milestone,8467282159,B,anxiety
+71.0,AAA,Dev milestone,808.434.5826x5467,A,ASD
+72.0,DDD,Medication,815.848.8963,O+,PTSDdyslexic
+73.0,CCC,IEP program,264.815.6586x4336,B,OCD
+74.0,BBB,Medication,3762716604,AB,PTSDdyslexic
+75.0,BBB,IEP program,886-938-6756,O+,depression
+76.0,CCC,Immunization,001-894-528-5636,A,dyspraxia
+77.0,BBB,Medication,410-921-8583,B,dyspraxia
+78.0,CCC,Medication,991-410-4116,O-,OCD
+79.0,CCC,Medication,(785)701-8197,AB,dyspraxia
+80.0,DDD,IEP program,(213)709-9001x066,A,ASD
+81.0,BBB,Medication,3845148748,A,ADHD
+82.0,CCC,Medication,432.765.2858x575,O-,anxiety
+83.0,DDD,IEP program,+1-528-375-4503x252,O+,dyspraxia
+84.0,DDD,Medication,+1-605-378-5615x408,B,ASD
+85.0,DDD,IEP program,820-588-3924,A,PTSDdyslexic
+86.0,AAA,Immunization,925-973-8681x09894,A,anxiety
+87.0,BBB,Medication,(938)943-6026,O+,PTSDdyslexic
+88.0,DDD,Dev milestone,001-935-541-2277x24063,O+,anxiety
+89.0,DDD,Immunization,(862)732-6662x20833,B,ADHD
+90.0,DDD,IEP program,560-562-7834x61753,A,anxiety
+91.0,DDD,IEP program,371-293-7240x3986,O-,ADHD
+92.0,DDD,IEP program,001-835-657-1291x191,O+,ADHD
+93.0,BBB,Dev milestone,+1-604-331-0747x6211,O+,PTSDdyslexic
+94.0,BBB,IEP program,001-561-572-2304x7598,B,OCD
+95.0,AAA,Immunization,001-568-452-9794x4309,A,depression
+96.0,BBB,Medication,(803)781-4769x1093,B,ADHD
+97.0,DDD,Dev milestone,+1-435-246-2773,O-,anxiety
+98.0,BBB,Medication,633.330.6244,B,ASD
+99.0,AAA,IEP program,457.231.7714x151,A,ADHD
+100.0,CCC,Medication,001-266-732-2172x2245,AB,ADHD
